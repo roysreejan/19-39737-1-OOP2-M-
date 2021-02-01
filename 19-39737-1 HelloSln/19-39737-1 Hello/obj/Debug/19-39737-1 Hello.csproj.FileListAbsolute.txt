@@ -1,0 +1,6 @@
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\19-39737-1 HelloSln\19-39737-1 Hello\bin\Debug\19-39737-1 Hello.exe.config
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\19-39737-1 HelloSln\19-39737-1 Hello\bin\Debug\19-39737-1 Hello.exe
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\19-39737-1 HelloSln\19-39737-1 Hello\bin\Debug\19-39737-1 Hello.pdb
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\19-39737-1 HelloSln\19-39737-1 Hello\obj\Debug\19-39737-1 Hello.csprojResolveAssemblyReference.cache
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\19-39737-1 HelloSln\19-39737-1 Hello\obj\Debug\19-39737-1 Hello.exe
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\19-39737-1 HelloSln\19-39737-1 Hello\obj\Debug\19-39737-1 Hello.pdb
