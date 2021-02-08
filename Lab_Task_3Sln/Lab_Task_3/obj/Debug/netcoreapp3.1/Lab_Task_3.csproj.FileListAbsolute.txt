@@ -10,3 +10,4 @@ E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\obj\Debug\netcore
 E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.dll
 E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.pdb
 E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.genruntimeconfig.cache
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.csprojAssemblyReference.cache

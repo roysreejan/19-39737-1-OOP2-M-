@@ -4,12 +4,12 @@ using System.Text;
 
 namespace Lab_Task_3
 {
-    public class Student
+    class Student
     {
-        string name;
-        string id;
-        string department;
-        float cgpa;
+        private string name;
+        private string id;
+        private string department;
+        private float cgpa;
         //properties
         public string Name
         {
@@ -41,7 +41,7 @@ namespace Lab_Task_3
         }
         public Student(string name, string id)
         {
-            Console.WriteLine("Student created with 2 parameter");
+            Console.WriteLine("\nStudent created with 2 parameter");
             this.name = name;
             this.id = id;
         }
@@ -50,6 +50,7 @@ namespace Lab_Task_3
         {
             Console.WriteLine("Name is: " + name);
             Console.WriteLine("Id is: " + id);
+            Console.WriteLine("Department is: " + department);
             Console.WriteLine("Cgpa is: " + cgpa);
         }
     }
