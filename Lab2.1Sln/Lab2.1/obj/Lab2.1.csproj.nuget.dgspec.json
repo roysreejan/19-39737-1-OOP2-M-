@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\AccessModifiersSln\\AccessModifiers\\AccessModifiers.csproj": {}
+    "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\Lab2.1Sln\\Lab2.1\\Lab2.1.csproj": {}
   },
   "projects": {
-    "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\AccessModifiersSln\\AccessModifiers\\AccessModifiers.csproj": {
+    "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\Lab2.1Sln\\Lab2.1\\Lab2.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\AccessModifiersSln\\AccessModifiers\\AccessModifiers.csproj",
-        "projectName": "AccessModifiers",
-        "projectPath": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\AccessModifiersSln\\AccessModifiers\\AccessModifiers.csproj",
+        "projectUniqueName": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\Lab2.1Sln\\Lab2.1\\Lab2.1.csproj",
+        "projectName": "Lab2.1",
+        "projectPath": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\Lab2.1Sln\\Lab2.1\\Lab2.1.csproj",
         "packagesPath": "C:\\Users\\sreejan\\.nuget\\packages\\",
-        "outputPath": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\AccessModifiersSln\\AccessModifiers\\obj\\",
+        "outputPath": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\Lab2.1Sln\\Lab2.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

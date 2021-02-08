@@ -1,0 +1,13 @@
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.exe
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.deps.json
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.runtimeconfig.json
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.runtimeconfig.dev.json
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.dll
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.pdb
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.csprojAssemblyReference.cache
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.AssemblyInfoInputs.cache
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.AssemblyInfo.cs
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.csproj.CoreCompileInputs.cache
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.dll
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.pdb
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab2.1Sln\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.genruntimeconfig.cache

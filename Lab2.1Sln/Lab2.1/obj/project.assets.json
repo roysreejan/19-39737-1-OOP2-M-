@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "AccessModifiers/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/AccessModifiers.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/AccessModifiers.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "AccessModifiers/1.0.0": {
-      "type": "project",
-      "path": "../AccessModifiers/AccessModifiers.csproj",
-      "msbuildProject": "../AccessModifiers/AccessModifiers.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "AccessModifiers >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\sreejan\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\AccessModifiersSln\\StudentAccess\\StudentAccess.csproj",
-      "projectName": "StudentAccess",
-      "projectPath": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\AccessModifiersSln\\StudentAccess\\StudentAccess.csproj",
+      "projectUniqueName": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\Lab2.1Sln\\Lab2.1\\Lab2.1.csproj",
+      "projectName": "Lab2.1",
+      "projectPath": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\Lab2.1Sln\\Lab2.1\\Lab2.1.csproj",
       "packagesPath": "C:\\Users\\sreejan\\.nuget\\packages\\",
-      "outputPath": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\AccessModifiersSln\\StudentAccess\\obj\\",
+      "outputPath": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\Lab2.1Sln\\Lab2.1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -57,11 +38,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\AccessModifiersSln\\AccessModifiers\\AccessModifiers.csproj": {
-              "projectPath": "E:\\AIUB\\SEMESTER-7\\OOP2\\MID TERM\\Code\\AccessModifiersSln\\AccessModifiers\\AccessModifiers.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
