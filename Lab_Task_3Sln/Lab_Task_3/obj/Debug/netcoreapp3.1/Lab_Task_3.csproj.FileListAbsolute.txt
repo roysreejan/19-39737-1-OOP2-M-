@@ -1,0 +1,12 @@
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.exe
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.deps.json
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.runtimeconfig.json
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.runtimeconfig.dev.json
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.dll
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.pdb
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.AssemblyInfoInputs.cache
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.AssemblyInfo.cs
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.csproj.CoreCompileInputs.cache
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.dll
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.pdb
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\Lab_Task_3Sln\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.genruntimeconfig.cache
