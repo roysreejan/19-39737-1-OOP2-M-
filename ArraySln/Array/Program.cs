@@ -10,6 +10,17 @@ namespace Array
     {
         static void Main(string[] args)
         {
+            //read n number and display reverse order
+            int[] array = new int[] { 1, 2, 3, 4, 5 };
+            Console.WriteLine("Array in reverse order: ");
+
+            for (int i = array.Length - 1; i >= 0; i--)
+            {
+                Console.WriteLine(array[i]);
+            }
+           Console.WriteLine();
+
+
             //sum of all elements of the array
             int[] arr = new int[] { 1, 2, 3, 4, 5 };
             int sum = 0;
@@ -17,7 +28,8 @@ namespace Array
             {
                 sum += arr[i];
             }
-            Console.WriteLine("The sum of all elements of the array: " + sum);
+            Console.WriteLine("The sum of all elements of the array: {0}" , sum);
+            Console.WriteLine();
 
 
             //copy to another array
@@ -32,6 +44,7 @@ namespace Array
             {
                 Console.Write(arr2[i] + " ");
             }
+            Console.WriteLine();
 
 
             //total number of duplicate value
@@ -48,8 +61,10 @@ namespace Array
                         count=count+1;
                     }
                 }
-                Console.WriteLine("\nTotal number of duplicate elements in an array:" + count);
+                Console.WriteLine();
+                Console.WriteLine("Total number of duplicate elements in an array:" + count);
             }
+
 
             //print all unique elements in an array
             
