@@ -9,54 +9,62 @@ namespace Inheritance
     class Account
     {
         private string accName;
-        private string acid;
+        private string accid;
         private int balance;
-        //properties
+        public Account() 
+        {
+            Console.WriteLine("Account created with default");
+        }
+
+        public Account(string accName, string accid, int balance)
+        {
+            this.accName = accName;
+            this.accid = accid;
+            this.balance = balance;
+        }
+
         public string AccName
         {
             set { accName = value; }
             get { return accName; }
         }
-        public string Acid
+
+        public string Accid
         {
-            set { acid = value; }
-            get { return acid; }
+            set { accid = value; }
+            get { return accid; }
         }
+
         public int Balance
         {
             set { balance = value; }
             get { return balance; }
         }
-        //constructor
-        public Account()
-        {
-            Console.WriteLine("Account created with default");
-        }
-        public Account(string accName, string acid, int balance)
-        {
-            Console.WriteLine("Account created with 3 parameter");
-            this.accName = accName;
-            this.acid = acid;
-            this.balance = balance;
-        }
-        public void Deposit(int amount)
-        {
-            this.balance += amount;
-        }
-        public void Withdraw(int amount)
-        {
-            if (this.balance < amount)
-            {
-                Console.WriteLine("Insufficient Balance");
-            }
-            else
-            {
-                this.balance -= amount;
-            }
-        }
-        public void Transfer(int ammount, Account acc)
-        {
 
+        public virtual void Deposit(int amount)
+        {
+            balance = balance + amount;
+        }
+
+        public virtual void Withdraw(int amount)
+        {
+            balance = balance - amount;
+        }
+        public virtual void Transfer(int amount, Account acc)
+        {
+            balance = balance - amount;
+            acc.Balance = acc.Balance + amount;
+            Console.WriteLine("Balance Transfered.");
+        }
+
+        public void ShowInfo()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Account Name: {0}", this.AccName);
+            Console.WriteLine("Account ID: {0}", this.Accid);
+            Console.WriteLine("Account Balance: {0}", this.Balance);
+            Console.WriteLine("Account Type: {0}", this.GetType().ToString().Split('.')[1]);
+            Console.WriteLine();
         }
     }
 }

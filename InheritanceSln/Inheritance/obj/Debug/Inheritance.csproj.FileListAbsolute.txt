@@ -1,0 +1,7 @@
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\InheritanceSln\Inheritance\bin\Debug\Inheritance.exe.config
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\InheritanceSln\Inheritance\bin\Debug\Inheritance.exe
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\InheritanceSln\Inheritance\bin\Debug\Inheritance.pdb
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\InheritanceSln\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\InheritanceSln\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\InheritanceSln\Inheritance\obj\Debug\Inheritance.exe
+E:\AIUB\SEMESTER-7\OOP2\MID TERM\Code\InheritanceSln\Inheritance\obj\Debug\Inheritance.pdb

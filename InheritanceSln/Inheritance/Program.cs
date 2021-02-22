@@ -10,27 +10,51 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-            Account a1 = new Account();
-            a1.AccName = "Sreejan Roy";
-            a1.Acid = "19397371";
-            a1.Balance = 10000;
+            Console.WriteLine("Savings: ");
+            Savings s1 = new Savings("Sreejan Roy", "19397371", 5000);
+            Savings s2 = new Savings("Sojib", "19397372", 5500);
+            s1.Withdraw(500);
+            s1.Deposit(1000);
+            s1.Transfer(1000, s2);
 
-            a1.Deposit(1000);
-            Console.WriteLine("After Deposit: ");
-            Console.WriteLine("Name: {0}\nAcid: {1}\nBalance: {2}\n", a1.AccName, a1.Acid, a1.Balance);
+            s1.ShowInfo();
+            s2.ShowInfo();
 
-            a1.Withdraw(500);
-            Console.WriteLine("After Withdraw: ");
-            Console.WriteLine("Name: {0}\nAcid: {1}\nBalance: {2}\n", a1.AccName, a1.Acid, a1.Balance);
+            Console.WriteLine("**********************");
 
-            Account a2 = new Account("Sreejan Roy", "152375", 50000);
-            a2.Deposit(1000);
-            Console.WriteLine("After Deposit: ");
-            Console.WriteLine("Name: {0}\nAcid: {1}\nBalance: {2}\n", a2.AccName, a2.Acid, a2.Balance);
+            Console.WriteLine("Special:");
+            SpecialCurrent sc1 = new SpecialCurrent("Sreejan Roy", "19397371", 5000);
+            SpecialCurrent sc2 = new SpecialCurrent("Sojib", "19397372", 5500);
+            sc1.Withdraw(500);
+            sc1.Deposit(1000);
+            sc1.Transfer(5000, sc2);
 
-            a2.Withdraw(500);
-            Console.WriteLine("After Withdraw: ");
-            Console.WriteLine("Name: {0}\nAcid: {1}\nBalance: {2}", a2.AccName, a2.Acid, a2.Balance);
+            sc1.ShowInfo();
+            sc2.ShowInfo();
+
+            Console.WriteLine("**********************");
+           
+            Console.WriteLine("Fixed: ");
+            Fixed f1 = new Fixed("Sreejan Roy", "19397371", 5000, 4);
+            Fixed f2 = new Fixed("Sojib", "19397372", 5500, 3);
+            f1.Withdraw(500);
+            f1.Deposit(1000);
+            f1.Transfer(5000, f2);
+
+            f1.ShowInfo();
+            f2.ShowInfo();
+
+            Console.WriteLine("**********************");
+            
+            Console.WriteLine("OverDraft: ");
+            OverDraft od1 = new OverDraft("Sreejan Roy", "19397371", 5000);
+            OverDraft od2 = new OverDraft("Sojib", "19397372", 5500);
+            od1.Withdraw(500);
+            od1.Deposit(1000);
+            od1.Transfer(5000, od2);
+
+            od1.ShowInfo();
+            od2.ShowInfo();
         }
     }
 }

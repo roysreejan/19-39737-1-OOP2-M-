@@ -8,20 +8,52 @@ namespace Inheritance
 {
     class OverDraft : Account
     {
-        private int limit;
-        public int Limit
-        {
-            set { limit = value; }
-            get { return limit; }
-        }
+        private int limit = 50000;
+
         public OverDraft()
         {
-            Console.WriteLine("OverDraft Created with default");
+            Console.WriteLine("OverDraft Account created with default");
         }
-        public OverDraft(int limit)
+        public OverDraft(string accName, string accid, int balance)
+            : base(accName, accid, balance)
         {
-            this.limit = limit;
-            Console.WriteLine("OverDraft Created with 1 parameter");
+            base.Balance = balance + this.Limit;
+        }
+
+        public int Limit
+        {
+            get { return this.limit; }
+        }
+
+        public override void Withdraw(int amount)
+        {
+            if (this.Balance >= amount)
+            {
+                base.Withdraw(amount);
+            }
+            else
+            {
+                Console.WriteLine(" You've exceeded your minimum balance!!");
+                Console.WriteLine();
+            }
+        }
+
+        public override void Deposit(int amount)
+        {
+            base.Deposit(amount);
+        }
+
+        public override void Transfer(int amount, Account acc)
+        {
+            if (base.Balance >= amount)
+            {
+                base.Transfer(amount, acc);
+            }
+            else
+            {
+                Console.WriteLine(" You've exceeded your minimum balance!!");
+                Console.WriteLine();
+            }
         }
     }
 }
